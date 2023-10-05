@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+        "totalResults": 13,
+            "articles": [
+                {
+                    "source": {
+                        "id": "techradar",
+                        "name": "TechRadar"
+                    },
+                    "author": "James Davidson",
+                    "title": "5 reasons why Hisense and TCL are set to dominate the mini-LED TV market",
+                    "description": "Samsung may well lose their place at the top of the mini-LED mountain",
+                    "url": "https://www.techradar.com/televisions/5-reasons-why-hisense-and-tcl-are-set-to-dominate-the-mini-led-tv-market",
+                    "urlToImage": "https://cdn.mos.cms.futurecdn.net/BghgggbzGKNz4YuAmRiH4f-1200-80.jpg",
+                    "publishedAt": "2023-08-20T15:00:45Z",
+                    "content": "Samsung has often held its place as the top brand for mini-LED TVs, which it calls Neo QLEDs, for a few years. Often featuring among the best TVs\r\n, Samsung aims to put itself as the premier provider… [+6197 chars]"
+                },
+                {
+                    "source": {
+                        "id": "cnn",
+                        "name": "CNN"
+                    },
+                    "author": "Anna Bahney",
+                    "title": "As mortgage rates soar over 7%, an unaffordable housing market is becoming even more expensive",
+                    "description": "An already miserably unaffordable housing market is getting more expensive.",
+                    "url": "https://www.cnn.com/2023/08/20/homes/mortgage-rates-housing-affordability/index.html",
+                    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230818131914-01-single-family-home-062123.jpg?c=16x9&q=w_800,c_fill",
+                    "publishedAt": "2023-08-20T12:14:54Z",
+                    "content": "An already miserably unaffordable housing market is getting more expensive. \r\nAs mortgage rates top 7% the highest theyve been in 21 years according to Freddie Mac home buyers face ballooning costs. … [+5449 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-wall-street-journal",
+                        "name": "The Wall Street Journal"
+                    },
+                    "author": "Spencer Jakab",
+                    "title": "How to Get Rich and Famous From a Stock Market Crash",
+                    "description": "‘Big Short’ hero Michael Burry sees disaster and—eventually—he’ll get it right again",
+                    "url": "https://www.wsj.com/finance/investing/how-to-get-rich-and-famous-from-a-stock-market-crash-6914580a?mod=hp_lead_pos6",
+                    "urlToImage": "https://images.wsj.net/im-837677/social",
+                    "publishedAt": "2023-08-20T09:30:00Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "reuters",
+                        "name": "Reuters"
+                    },
+                    "author": "Reuters",
+                    "title": "Adobe co-founder John Warnock dies at 82",
+                    "description": "Photoshop maker Adobe's <a href=\"https://www.reuters.com/markets/companies/ADBE.O\" target=\"_blank\">(ADBE.O)</a> co-founder John Warnock died on Saturday aged 82, the company said in a statement early on Sunday.",
+                    "url": "https://www.reuters.com/technology/adobes-co-founder-john-warnock-dies-82-2023-08-20/",
+                    "urlToImage": "https://www.reuters.com/resizer/BDpHQgDIyASttLHKYtflXlTWIeg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LJFVN3L7LZIMFNUFGWW7DAVRXI.jpg",
+                    "publishedAt": "2023-08-20T09:22:02Z",
+                    "content": "Aug 20 (Reuters) - Photoshop maker Adobe's (ADBE.O) co-founder John Warnock died on Saturday aged 82, the company said in a statement early on Sunday.\r\nThe cause of his death was not disclosed.\r\n\"It … [+450 chars]"
+                },
+                {
+                    "source": {
+                        "id": "bloomberg",
+                        "name": "Bloomberg"
+                    },
+                    "author": "Bloomberg",
+                    "title": "Diesel Is Pricing a Scarcity With Winter Market Looming Large",
+                    "description": null,
+                    "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIzLTA4LTIwL2RpZXNlbC1pcy1wcmljaW5nLWEtc2NhcmNpdHktd2l0aC13aW50ZXItbWFya2V0LWxvb21pbmctbGFyZ2XSAQA?oc=5",
+                    "urlToImage": null,
+                    "publishedAt": "2023-08-20T01:05:53+00:00",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "techcrunch",
+                        "name": "TechCrunch"
+                    },
+                    "author": "Morgan Sung",
+                    "title": "Zepotha is huge on TikTok, but it's no Goncharov | TechCrunch",
+                    "description": "The seminal 1987 horror “Zepotha” is back on TikTok. Reaction videos to the film’s gory forest scenes dominate user feeds. TikTok users are digging Zepotha is all over TikTok, but the 1980s horror flick never existed. It's part of a clever marketing strategy …",
+                    "url": "https://techcrunch.com/2023/08/18/zepotha-1980s-horror-fake-movie-tiktok-goncharov-tumblr/",
+                    "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/12/5943681577_f8097417da_b.jpg?w=1024",
+                    "publishedAt": "2023-08-18T20:36:27Z",
+                    "content": "The seminal 1987 horror Zepotha is back on TikTok.\r\nReaction videos to the films gory forest scenes dominate user feeds. TikTok users are digging through their parents wardrobes to recreate the vinta… [+7191 chars]"
+                },
+                {
+                    "source": {
+                        "id": "techcrunch",
+                        "name": "TechCrunch"
+                    },
+                    "author": "Anna Heim",
+                    "title": "Nailing subscriptions in India | TechCrunch",
+                    "description": "In this week's Exchange, I'm looking at subscriptions in India from two angles: the consumer market and B2B SaaS.",
+                    "url": "https://techcrunch.com/2023/08/19/subscriptions-saas-india/",
+                    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/india_tech.jpg?resize=1200,840",
+                    "publishedAt": "2023-08-18T18:42:11Z",
+                    "content": "Welcome to the TechCrunch Exchange, a weekly startups-and-markets newsletter. Its inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday? Sign up here.\r… [+812 chars]"
+                },
+                {
+                    "source": {
+                        "id": "techcrunch",
+                        "name": "TechCrunch"
+                    },
+                    "author": "Rebecca Szkutak",
+                    "title": "What Parade's acquisition says about the market | TechCrunch",
+                    "description": "While we don't have the numbers, it seems safe to assume Parade won't be the only DTC startup to see a similar exit.",
+                    "url": "https://techcrunch.com/2023/08/19/parade-dtc-acquisition-market-conditions/",
+                    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-912366968.jpg?resize=1200,924",
+                    "publishedAt": "2023-08-17T21:45:24Z",
+                    "content": "You don’t need me to tell you that startups haven’t been doing great since the funding slowdown and valuation reset started back in 2022. But while some companies will be able to survive on cash rese… [+1465 chars]"
+                },
+                {
+                    "source": {
+                        "id": "the-next-web",
+                        "name": "The Next Web"
+                    },
+                    "author": "Ioanna Lykiardopoulou",
+                    "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+                    "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+                    "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+                    "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+                    "publishedAt": "2023-06-22T11:21:08Z",
+                    "content": "Quick commerce platform Getir is bidding adieu to the French market less than two years since starting its operations in the country.\r\nIn a press release sent to AFP, the company said that it will so… [+1469 chars]"
+                },
+                {
+                    "source": {
+                        "id": "financial-post",
+                        "name": "Financial Post"
+                    },
+                    "author": "Financial Post",
+                    "title": "Financial Post",
+                    "description": "Stay up to date on the latest news, research and market updates on Canadian investments and stocks.",
+                    "url": "http://business.financialpost.com/category/investing/",
+                    "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+                    "publishedAt": "2023-05-17T20:37:35.4307753Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "financial-post",
+                        "name": "Financial Post"
+                    },
+                    "author": "Financial Post",
+                    "title": "Financial Post",
+                    "description": "We got you covered on the Canadian real estate industry. Read our stories and tips on the housing market, mortage rates, homebuyer planning and more.",
+                    "url": "http://business.financialpost.com/category/real-estate/",
+                    "urlToImage": "https://dcs-static.gprod.postmedia.digital/13.5.3/websites/images/fp/ogimage-fp.png",
+                    "publishedAt": "2023-05-17T20:37:34.1967075Z",
+                    "content": null
+                },
+                {
+                    "source": {
+                        "id": "the-globe-and-mail",
+                        "name": "The Globe And Mail"
+                    },
+                    "author": "Erica Alini",
+                    "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+                    "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+                    "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+                    "urlToImage": "https://www.theglobeandmail.com/resizer/k4SzzUz-fDXLTPrBSHk8c8OwZCs=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OUZ33GZN4VBJZCAFM4TXYDFKAI.JPG",
+                    "publishedAt": "2022-06-16T09:00:00Z",
+                    "content": "A sign advertising a house for rent in Ottawa, Ont., on May 16.Spencer Colby/The Globe and Mail\r\nJust as Canadas home sales and prices cool off, the rental market is catching fire.\r\nRents in many par… [+4720 chars]"
+                },
+                {
+                    "source": {
+                        "id": "fortune",
+                        "name": "Fortune"
+                    },
+                    "author": "Kevin Kelleher",
+                    "title": "Buybacks vs dividends? In market downturns, the rules may change",
+                    "description": "CFOs can return profits to shareholders with dividends and buybacks. Here's how they may fare during a stock market selloff or recession.",
+                    "url": "https://fortune.com/2022/06/01/buybacks-vs-dividends-stock-market-downturns-recession-cfo-daily-newsletter/",
+                    "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/GettyImages-1310316502.jpg?resize=1200,600",
+                    "publishedAt": "2022-06-01T10:15:00Z",
+                    "content": "Skip to Content"
+                }
+            ]
+}
